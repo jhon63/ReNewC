@@ -18,6 +18,7 @@ processorArchitecture='*' publicKeyToken='6595b64144ccf1df' language='*'\"")
 #include <CommCtrl.h>
 #include <strsafe.h>
 #include <vector>
+#include <string>
 #include "resource.h"
 #include "Display.h"
 
